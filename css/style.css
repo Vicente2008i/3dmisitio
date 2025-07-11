@@ -1,0 +1,7 @@
+header{
+    border-color: 3px solid blue;
+}
+.top-header{
+    background: lightgreen;
+}
+.bottom-header{background: lightblue;}
