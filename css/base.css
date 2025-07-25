@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=IM+Fell+French+Canon+SC&display=swap');
+:root{
+    --color-primary: #F6F1E9;
+    --color-secundary: #6E2E2A;
+    --color-accent: #4B3621;
+    --color-complement: #C2B280;
+
+    --color-light: #FAFAFA;
+    --color-dark: #1e1e1f;
+
+    --font-title: "Gentium Plus", serif;
+    --font-text: "IM Fell French Canon SC", serif;
+}

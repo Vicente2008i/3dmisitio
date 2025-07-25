@@ -1,7 +1,8 @@
 header{
-    border-color: 3px solid blue;
+    height: 300px;
+    background-color: var(--color-primary)
 }
-.top-header{
-    background: lightgreen;
+
+.bottom-header{
+    height: 70%;
 }
-.bottom-header{background: lightblue;}
